@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Newton"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Joint-PhD Student, Indian Institute of Technology Bombay\n NUS Singapore "
+name                     : &name "newton"
+description              : &description "Joint-PhD Student, Indian Institute of Technology Bombay and NUS Singapore"
 url                      : https://newton-iitb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Newton"
   avatar           : "profile.png"
-  bio              : "A joint-PhD student at IIT Bombay and NUS Singapore"
-  location         : "Mummbai, India\nSingapore, Singapore"
+  bio              : "Joint-PhD Student at IIT Bombay and NUS Singapore"
+  location         : "Mumbai, India; Singapore"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=g-9rF3cAAAAJ&hl=en"
