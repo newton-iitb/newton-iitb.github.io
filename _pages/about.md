@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Newton-Namaste"
+title: "Namaste"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
